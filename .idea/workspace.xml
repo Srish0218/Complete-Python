@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f303b8ef-97a2-438f-96ad-f90cd11ccb62" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Homoscedasticity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeoulBikeData.csv" afterDir="false" />
+    <list default="true" id="f303b8ef-97a2-438f-96ad-f90cd11ccb62" name="Changes" comment="Adding Linear Regression">
+      <change afterPath="$PROJECT_DIR$/K Means.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principal Component Analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAGIC.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
     "database.data.extractors.current.id": "SQL Inserts",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Users/srish/PycharmProjects/CodingNinjas",
+    "last_opened_file_path": "D:/Users/srish/PycharmProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -163,17 +161,38 @@
       <updated>1703149021940</updated>
       <workItem from="1703149030160" duration="19324000" />
       <workItem from="1704471109469" duration="68328000" />
-      <workItem from="1705215059228" duration="5871000" />
+      <workItem from="1705215059228" duration="10423000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding Linear Regression">
+      <option name="closed" value="true" />
+      <created>1705230629319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705230629319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Adding Linear Regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Linear Regression" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodingNinjas$linkedlist.coverage" NAME="linkedlist Coverage Results" MODIFIED="1704629091615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
